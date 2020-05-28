@@ -1024,3 +1024,207 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.28-05.44.10:862][925]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
 [2020.05.28-05.44.10:862][925]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
 [2020.05.28-05.44.10:862][925]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2020.05.28-05.46.26:786][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.05.28-05.46.26:789][955]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.032
+[2020.05.28-05.46.26:790][955]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FemaleMilitaryOfficer/Characters/Meshes/SKL_Tubaki] ([1] browsable assets)...
+[2020.05.28-05.46.26:790][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/FemaleMilitaryOfficer/Characters/Meshes/SKL_Tubaki]
+[2020.05.28-05.46.26:803][955]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/SKL_Tubaki_Auto1E7C00EA940F23352E96B0B9FD2356C42.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Autosaves/Game/FemaleMilitaryOfficer/Characters/Meshes/SKL_Tubaki_Auto1.uasset'
+[2020.05.28-05.46.26:847][955]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2020.05.28-05.46.26:847][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton]
+[2020.05.28-05.46.26:859][955]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/UE4_Mannequin_Skeleton_Auto13C77685F4D15921C91C02A9656EEE903.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Autosaves/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto1.uasset'
+[2020.05.28-05.46.26:860][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Crouch_Idle_Rifle_Hip] ([1] browsable assets)...
+[2020.05.28-05.46.26:885][955]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip]
+[2020.05.28-05.46.26:885][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crouch_Idle_Rifle_Hip]
+[2020.05.28-05.46.26:885][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Idle_Rifle_Hip" FILE="../../../../FPS Game ue4/ProjectA_V6.1/Saved/Autosaves/Game/Crouch_Idle_Rifle_Hip_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.05.28-05.46.26:909][955]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_Idle_Rifle_Hip_Auto14F0A29B44E4FE8741D61D896899F58CA.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Autosaves/Game/Crouch_Idle_Rifle_Hip_Auto1.uasset'
+[2020.05.28-05.46.26:910][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Crouch_Idle_Rifle_Ironsights] ([1] browsable assets)...
+[2020.05.28-05.46.26:923][955]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights]
+[2020.05.28-05.46.26:923][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crouch_Idle_Rifle_Ironsights]
+[2020.05.28-05.46.26:923][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Idle_Rifle_Ironsights" FILE="../../../../FPS Game ue4/ProjectA_V6.1/Saved/Autosaves/Game/Crouch_Idle_Rifle_Ironsights_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.05.28-05.46.26:950][955]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_Idle_Rifle_Ironsights_AutDA57ADDD499801C195D76D94B1888973.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Autosaves/Game/Crouch_Idle_Rifle_Ironsights_Auto1.uasset'
+[2020.05.28-05.46.26:950][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Crouch_to_Stand_Rifle_Hip] ([1] browsable assets)...
+[2020.05.28-05.46.26:967][955]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Crouch_to_Stand_Rifle_Hip.Crouch_to_Stand_Rifle_Hip]
+[2020.05.28-05.46.26:967][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crouch_to_Stand_Rifle_Hip]
+[2020.05.28-05.46.26:967][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_to_Stand_Rifle_Hip" FILE="../../../../FPS Game ue4/ProjectA_V6.1/Saved/Autosaves/Game/Crouch_to_Stand_Rifle_Hip_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.05.28-05.46.26:988][955]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_to_Stand_Rifle_Hip_Auto13FB1836E4640168BE688CA80233F314B.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Autosaves/Game/Crouch_to_Stand_Rifle_Hip_Auto1.uasset'
+[2020.05.28-05.46.26:989][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Crouch_to_Stand_Rifle_Ironsights] ([1] browsable assets)...
+[2020.05.28-05.46.27:002][955]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights]
+[2020.05.28-05.46.27:002][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crouch_to_Stand_Rifle_Ironsights]
+[2020.05.28-05.46.27:020][955]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_to_Stand_Rifle_IronsightsFFC49333410B200F2E40428E4910930B.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Autosaves/Game/Crouch_to_Stand_Rifle_Ironsights_Auto1.uasset'
+[2020.05.28-05.46.27:021][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Crouch_Walk_Bwd_Rifle_Hip] ([1] browsable assets)...
+[2020.05.28-05.46.27:034][955]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip]
+[2020.05.28-05.46.27:034][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crouch_Walk_Bwd_Rifle_Hip]
+[2020.05.28-05.46.27:034][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Bwd_Rifle_Hip" FILE="../../../../FPS Game ue4/ProjectA_V6.1/Saved/Autosaves/Game/Crouch_Walk_Bwd_Rifle_Hip_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.05.28-05.46.27:055][955]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_Walk_Bwd_Rifle_Hip_Auto13AAA04714A00DB776FAE69AD9729AF58.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Autosaves/Game/Crouch_Walk_Bwd_Rifle_Hip_Auto1.uasset'
+[2020.05.28-05.46.27:056][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Crouch_Walk_Bwd_Rifle_Ironsights] ([1] browsable assets)...
+[2020.05.28-05.46.27:069][955]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights]
+[2020.05.28-05.46.27:069][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crouch_Walk_Bwd_Rifle_Ironsights]
+[2020.05.28-05.46.27:123][955]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_Walk_Bwd_Rifle_IronsightsD6713A594C1FEC94935A30A125ACD63B.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Autosaves/Game/Crouch_Walk_Bwd_Rifle_Ironsights_Auto1.uasset'
+[2020.05.28-05.46.27:123][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Crouch_Walk_Fwd_Rifle_Hip] ([1] browsable assets)...
+[2020.05.28-05.46.27:137][955]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip]
+[2020.05.28-05.46.27:137][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crouch_Walk_Fwd_Rifle_Hip]
+[2020.05.28-05.46.27:137][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Fwd_Rifle_Hip" FILE="../../../../FPS Game ue4/ProjectA_V6.1/Saved/Autosaves/Game/Crouch_Walk_Fwd_Rifle_Hip_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.05.28-05.46.27:157][955]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_Walk_Fwd_Rifle_Hip_Auto1F074EF154D428A25486469B866198D76.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Autosaves/Game/Crouch_Walk_Fwd_Rifle_Hip_Auto1.uasset'
+[2020.05.28-05.46.27:158][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Crouch_Walk_Fwd_Rifle_Ironsights] ([1] browsable assets)...
+[2020.05.28-05.46.27:171][955]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights]
+[2020.05.28-05.46.27:171][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crouch_Walk_Fwd_Rifle_Ironsights]
+[2020.05.28-05.46.27:193][955]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_Walk_Fwd_Rifle_IronsightsE3BC750F4ADDB427B209BDBAA640888F.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Autosaves/Game/Crouch_Walk_Fwd_Rifle_Ironsights_Auto1.uasset'
+[2020.05.28-05.46.27:193][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Crouch_Walk_Lt_Rifle_Hip] ([1] browsable assets)...
+[2020.05.28-05.46.27:206][955]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip]
+[2020.05.28-05.46.27:206][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crouch_Walk_Lt_Rifle_Hip]
+[2020.05.28-05.46.27:206][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Lt_Rifle_Hip" FILE="../../../../FPS Game ue4/ProjectA_V6.1/Saved/Autosaves/Game/Crouch_Walk_Lt_Rifle_Hip_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.05.28-05.46.27:226][955]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_Walk_Lt_Rifle_Hip_Auto11AF017B347F02CED5D84A8B597807992.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Autosaves/Game/Crouch_Walk_Lt_Rifle_Hip_Auto1.uasset'
+[2020.05.28-05.46.27:226][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Crouch_Walk_Lt_Rifle_Ironsights] ([1] browsable assets)...
+[2020.05.28-05.46.27:240][955]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights]
+[2020.05.28-05.46.27:240][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crouch_Walk_Lt_Rifle_Ironsights]
+[2020.05.28-05.46.27:259][955]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_Walk_Lt_Rifle_Ironsights_D6F8A78042844BF761D4A58C0FAF3DA8.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Autosaves/Game/Crouch_Walk_Lt_Rifle_Ironsights_Auto1.uasset'
+[2020.05.28-05.46.27:260][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Crouch_Walk_Rt_Rifle_Hip] ([1] browsable assets)...
+[2020.05.28-05.46.27:273][955]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip]
+[2020.05.28-05.46.27:273][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crouch_Walk_Rt_Rifle_Hip]
+[2020.05.28-05.46.27:273][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Rt_Rifle_Hip" FILE="../../../../FPS Game ue4/ProjectA_V6.1/Saved/Autosaves/Game/Crouch_Walk_Rt_Rifle_Hip_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.05.28-05.46.27:293][955]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_Walk_Rt_Rifle_Hip_Auto14BEB9D514B876F403D13C79D3A7883D4.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Autosaves/Game/Crouch_Walk_Rt_Rifle_Hip_Auto1.uasset'
+[2020.05.28-05.46.27:293][955]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Crouch_Walk_Rt_Rifle_Ironsights] ([1] browsable assets)...
+[2020.05.28-05.46.27:306][955]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights]
+[2020.05.28-05.46.27:306][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/Crouch_Walk_Rt_Rifle_Ironsights]
+[2020.05.28-05.46.27:333][955]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_Walk_Rt_Rifle_Ironsights_028A0D644932758CD0860F9B421AC48C.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Autosaves/Game/Crouch_Walk_Rt_Rifle_Ironsights_Auto1.uasset'
+[2020.05.28-05.46.27:333][955]LogFileHelpers: Auto-saving content packages took 0.544
+[2020.05.28-05.54.41:934][638]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2020.05.28-05.54.41:952][638]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.28-05.54.42:003][638]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.05.28-05.54.42:242][638]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.05.28-05.54.43:888][791]LogSlate: Window 'Crouch_Walk_Rt_Rifle_Ironsights' being destroyed
+[2020.05.28-05.54.43:895][791]LogSlate: Window 'Crouch_Walk_Rt_Rifle_Ironsights' being destroyed
+[2020.05.28-05.54.43:895][791]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.05.28-05.54.43:895][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.28-05.54.43:918][791]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.05.28-05.54.43:918][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.28-05.54.43:993][791]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.05.28-05.54.43:993][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.28-05.54.48:124][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.05.28-05.54.48:255][228]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/ThirdPersonExampleMap08EAB4F446861EF3108343AF333B69BE.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.28-05.54.48:489][228]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/ThirdPersonExampleMap_BuiltDataA1EFF1424EF88940CF87ED851E79B0E4.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.05.28-05.54.48:499][228]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.28-05.54.48:499][228]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.28-05.54.48:499][228]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.05.28-05.54.49:824][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.05.28-05.54.49:935][361]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/ThirdPersonExampleMap3CE509114276296640E402A316761AB9.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.28-05.54.50:150][361]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/ThirdPersonExampleMap_BuiltData2748A2A5462F11A2F68B78A400147AA8.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.05.28-05.54.50:160][361]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.28-05.54.50:160][361]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.28-05.54.50:160][361]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.05.28-05.54.50:545][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.05.28-05.54.50:658][385]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/ThirdPersonExampleMap8483E34F46D6DBA20093CCB530E7E46B.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.05.28-05.54.50:872][385]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/ThirdPersonExampleMap_BuiltData113092D847D84623D48830BF82083030.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.05.28-05.54.50:883][385]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.28-05.54.50:883][385]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.05.28-05.54.50:883][385]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.05.28-05.55.37:044][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2020.05.28-05.57.01:046][653]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/SKL_TubakiCD82D2774838DB8E5C6CA392FD8CD27B.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Content/FemaleMilitaryOfficer/Characters/Meshes/SKL_Tubaki.uasset'
+[2020.05.28-05.57.01:064][653]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/UE4_Mannequin_Skeleton9AC9A2B64BD59FD8522A8A808775D8B8.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Content/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2020.05.28-05.57.01:070][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Idle_Rifle_Hip" FILE="../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_Idle_Rifle_Hip.uasset" SILENT=true
+[2020.05.28-05.57.01:089][653]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_Idle_Rifle_Hip2ECC8F6442C27865645AFDA4566D5326.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_Idle_Rifle_Hip.uasset'
+[2020.05.28-05.57.01:096][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Idle_Rifle_Ironsights" FILE="../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_Idle_Rifle_Ironsights.uasset" SILENT=true
+[2020.05.28-05.57.01:117][653]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_Idle_Rifle_Ironsights86DDADEE4D1A9CC51F32D388A33869BE.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_Idle_Rifle_Ironsights.uasset'
+[2020.05.28-05.57.01:122][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_to_Stand_Rifle_Hip" FILE="../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_to_Stand_Rifle_Hip.uasset" SILENT=true
+[2020.05.28-05.57.01:143][653]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_to_Stand_Rifle_Hip33B4CD7A410EF52FA08747818D8306CF.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_to_Stand_Rifle_Hip.uasset'
+[2020.05.28-05.57.01:149][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_to_Stand_Rifle_Ironsights" FILE="../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_to_Stand_Rifle_Ironsights.uasset" SILENT=true
+[2020.05.28-05.57.01:160][653]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_to_Stand_Rifle_IronsightsE33B4EB24E52098C1777C8BF69338F73.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_to_Stand_Rifle_Ironsights.uasset'
+[2020.05.28-05.57.01:166][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Bwd_Rifle_Hip" FILE="../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_Walk_Bwd_Rifle_Hip.uasset" SILENT=true
+[2020.05.28-05.57.01:192][653]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_Walk_Bwd_Rifle_HipF642962F4838E9747F052DB3E5B6BD3A.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_Walk_Bwd_Rifle_Hip.uasset'
+[2020.05.28-05.57.01:198][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Bwd_Rifle_Ironsights" FILE="../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_Walk_Bwd_Rifle_Ironsights.uasset" SILENT=true
+[2020.05.28-05.57.01:215][653]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_Walk_Bwd_Rifle_Ironsights1EAFC776477D220FAEEFE1A1AE109BB8.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_Walk_Bwd_Rifle_Ironsights.uasset'
+[2020.05.28-05.57.01:221][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Fwd_Rifle_Hip" FILE="../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_Walk_Fwd_Rifle_Hip.uasset" SILENT=true
+[2020.05.28-05.57.01:244][653]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_Walk_Fwd_Rifle_Hip12AC37B644DFAB5811F9918374C60F43.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_Walk_Fwd_Rifle_Hip.uasset'
+[2020.05.28-05.57.01:250][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Fwd_Rifle_Ironsights" FILE="../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_Walk_Fwd_Rifle_Ironsights.uasset" SILENT=true
+[2020.05.28-05.57.01:266][653]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_Walk_Fwd_Rifle_Ironsights670C83F04794F63A9A46C1A6686575FE.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_Walk_Fwd_Rifle_Ironsights.uasset'
+[2020.05.28-05.57.01:271][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Lt_Rifle_Hip" FILE="../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_Walk_Lt_Rifle_Hip.uasset" SILENT=true
+[2020.05.28-05.57.01:292][653]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_Walk_Lt_Rifle_Hip45C154F74B6534F159F5B094B54AC763.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_Walk_Lt_Rifle_Hip.uasset'
+[2020.05.28-05.57.01:303][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Lt_Rifle_Ironsights" FILE="../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_Walk_Lt_Rifle_Ironsights.uasset" SILENT=true
+[2020.05.28-05.57.01:317][653]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_Walk_Lt_Rifle_Ironsights6DA8A79E474374B7CD1010BE78A34357.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_Walk_Lt_Rifle_Ironsights.uasset'
+[2020.05.28-05.57.01:321][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Rt_Rifle_Hip" FILE="../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_Walk_Rt_Rifle_Hip.uasset" SILENT=true
+[2020.05.28-05.57.01:335][653]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_Walk_Rt_Rifle_Hip0EDBF90647378CF0CC0A9483186857B4.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_Walk_Rt_Rifle_Hip.uasset'
+[2020.05.28-05.57.01:340][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crouch_Walk_Rt_Rifle_Ironsights" FILE="../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_Walk_Rt_Rifle_Ironsights.uasset" SILENT=true
+[2020.05.28-05.57.01:354][653]LogSavePackage: Moving '../../../../FPS Game ue4/ProjectA_V6.1/Saved/Crouch_Walk_Rt_Rifle_Ironsights80888696439A6C5A4D1712BBCD51E02E.tmp' to '../../../../FPS Game ue4/ProjectA_V6.1/Content/Crouch_Walk_Rt_Rifle_Ironsights.uasset'
+[2020.05.28-05.57.01:403][653]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.28-05.57.01:403][653]LogContentValidation: Display: Validating Skeleton /Game/FemaleMilitaryOfficer/Characters/Meshes/SKL_Tubaki.SKL_Tubaki
+[2020.05.28-05.57.01:404][653]LogContentValidation: Display: Validating Skeleton /Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton.UE4_Mannequin_Skeleton
+[2020.05.28-05.57.01:404][653]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_Idle_Rifle_Hip.Crouch_Idle_Rifle_Hip
+[2020.05.28-05.57.01:404][653]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights
+[2020.05.28-05.57.01:404][653]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_to_Stand_Rifle_Hip.Crouch_to_Stand_Rifle_Hip
+[2020.05.28-05.57.01:404][653]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_to_Stand_Rifle_Ironsights.Crouch_to_Stand_Rifle_Ironsights
+[2020.05.28-05.57.01:404][653]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_Walk_Bwd_Rifle_Hip.Crouch_Walk_Bwd_Rifle_Hip
+[2020.05.28-05.57.01:404][653]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_Walk_Bwd_Rifle_Ironsights.Crouch_Walk_Bwd_Rifle_Ironsights
+[2020.05.28-05.57.01:404][653]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_Walk_Fwd_Rifle_Hip.Crouch_Walk_Fwd_Rifle_Hip
+[2020.05.28-05.57.01:404][653]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_Walk_Fwd_Rifle_Ironsights.Crouch_Walk_Fwd_Rifle_Ironsights
+[2020.05.28-05.57.01:404][653]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_Walk_Lt_Rifle_Hip.Crouch_Walk_Lt_Rifle_Hip
+[2020.05.28-05.57.01:404][653]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_Walk_Lt_Rifle_Ironsights.Crouch_Walk_Lt_Rifle_Ironsights
+[2020.05.28-05.57.01:404][653]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_Walk_Rt_Rifle_Hip.Crouch_Walk_Rt_Rifle_Hip
+[2020.05.28-05.57.01:404][653]LogContentValidation: Display: Validating AnimSequence /Game/Crouch_Walk_Rt_Rifle_Ironsights.Crouch_Walk_Rt_Rifle_Ironsights
+[2020.05.28-05.57.03:292][821]SourceControl: fatal: D:/UE_4.24/Engine/Content: 'D:/UE_4.24/Engine/Content' is outside repository at 'D:/FPS Game ue4/ProjectA_V6.1'
+[2020.05.28-05.57.03:462][821]LogPackageName: Error: Illegal call to DoesPackageExist: '../../../../FPS Game ue4/ProjectA_V6.1/ProjectA_V6_1.uproject' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.28-05.57.03:488][821]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.28-05.57.05:070][821]LogWindows: Warning: SymLoadModuleExW. Error: 87
+[2020.05.28-05.57.05:071][821]LogWindows: Warning: SymLoadModuleExW. Error: 87
+[2020.05.28-05.57.05:072][821]LogWindows: Warning: SymLoadModuleExW. Error: 87
+[2020.05.28-05.57.05:079][821]LogWindows: Warning: SymLoadModuleExW. Error: 87
+[2020.05.28-05.57.05:080][821]LogWindows: Warning: SymLoadModuleExW. Error: 87
+[2020.05.28-05.57.05:095][821]LogWindows: Warning: SymLoadModuleExW. Error: 87
+[2020.05.28-05.57.05:099][821]LogWindows: Warning: SymLoadModuleExW. Error: 87
+[2020.05.28-05.57.05:101][821]LogWindows: Warning: SymLoadModuleExW. Error: 87
+[2020.05.28-05.57.05:321][821]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.832 s
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: 
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/PackageName.cpp] [Line: 873]
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: Illegal call to DoesPackageExist: '../../../../FPS Game ue4/ProjectA_V6.1/ProjectA_V6_1.uproject' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: Stack: 
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: [Callstack] 0x00007ffebb0e80b7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: [Callstack] 0x00007ffebad33bc1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: [Callstack] 0x00007ffeae316365 UE4Editor-SourceControl.dll!UnknownFunction []
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: [Callstack] 0x00007ffeae3164bc UE4Editor-SourceControl.dll!UnknownFunction []
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: [Callstack] 0x00007ffeabdb04f5 UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: [Callstack] 0x00007ffeabd68e4d UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: [Callstack] 0x00007ffeabd6869a UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: [Callstack] 0x00007ffeabd80da6 UE4Editor-SourceControlWindows.dll!UnknownFunction []
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: [Callstack] 0x00007ffea06eb4e3 UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: [Callstack] 0x00007ffea06efe31 UE4Editor-GitSourceControl.dll!UnknownFunction []
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: [Callstack] 0x00007ffeae31ade9 UE4Editor-SourceControl.dll!UnknownFunction []
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: [Callstack] 0x00007ffeb48ab479 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: [Callstack] 0x00007ffeb510e476 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: [Callstack] 0x00007ff7d2b67f62 UE4Editor.exe!UnknownFunction []
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: [Callstack] 0x00007ff7d2b7c3ec UE4Editor.exe!UnknownFunction []
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: [Callstack] 0x00007ff7d2b7c4ca UE4Editor.exe!UnknownFunction []
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: [Callstack] 0x00007ff7d2b8ceae UE4Editor.exe!UnknownFunction []
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: [Callstack] 0x00007ff7d2b8fcbe UE4Editor.exe!UnknownFunction []
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: [Callstack] 0x00007fff63a07974 KERNEL32.DLL!UnknownFunction []
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: [Callstack] 0x00007fff664aa271 ntdll.dll!UnknownFunction []
+[2020.05.28-05.57.05:321][821]LogOutputDevice: Error: 
+[2020.05.28-05.57.05:378][821]LogStats:                SubmitErrorReport -  0.000 s
+[2020.05.28-05.57.12:841][821]LogStats:                    SendNewReport -  7.463 s
+[2020.05.28-05.57.12:841][821]LogStats:             FDebug::EnsureFailed -  9.352 s
+[2020.05.28-05.57.19:565][821]LogSlate: Window 'Submit Files' being destroyed
+[2020.05.28-05.57.20:355][821]SourceControl: Error: fatal: pathspec 'D:/FPS Game ue4/ProjectA_V6.1/ProjectA_V6_1.uproject' did not match any files
+[2020.05.28-05.57.21:071][821]SourceControl: Error: error: pathspec 'D:/FPS Game ue4/ProjectA_V6.1/ProjectA_V6_1.uproject' did not match any file(s) known to git
+[2020.05.28-05.57.21:084][821]LogTemp: Resetting audio stream to device id 
+[2020.05.28-05.57.21:099][821]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.28-05.57.21:099][821]LogAudioMixer: Display: Name: Speakers (G633s Gaming Headset)
+[2020.05.28-05.57.21:099][821]LogAudioMixer: Display: Is Default: Yes
+[2020.05.28-05.57.21:099][821]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.28-05.57.21:099][821]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.28-05.57.21:099][821]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.28-05.57.21:099][821]LogAudioMixer: Display: Channel Order:
+[2020.05.28-05.57.21:099][821]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.28-05.57.21:099][821]LogAudioMixer: Display: 1: FrontRight
+[2020.05.28-05.57.21:099][821]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.28-05.57.21:100][821]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.28-05.57.21:100][821]LogAudioMixer: Display: 4: BackLeft
+[2020.05.28-05.57.21:100][821]LogAudioMixer: Display: 5: BackRight
+[2020.05.28-05.57.21:100][821]LogAudioMixer: Display: 6: SideLeft
+[2020.05.28-05.57.21:100][821]LogAudioMixer: Display: 7: SideRight
+[2020.05.28-05.57.50:007][499]SourceControl: fatal: D:/UE_4.24/Engine/Content: 'D:/UE_4.24/Engine/Content' is outside repository at 'D:/FPS Game ue4/ProjectA_V6.1'
+[2020.05.28-05.57.50:140][499]LogPackageName: Error: Illegal call to DoesPackageExist: '../../../../FPS Game ue4/ProjectA_V6.1/ProjectA_V6_1.uproject' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2020.05.28-05.57.54:844][499]LogSlate: Window 'Submit Files' being destroyed
+[2020.05.28-05.57.55:603][499]SourceControl: Error: fatal: pathspec 'D:/FPS Game ue4/ProjectA_V6.1/ProjectA_V6_1.uproject' did not match any files
+[2020.05.28-05.57.56:299][499]SourceControl: Error: error: pathspec 'D:/FPS Game ue4/ProjectA_V6.1/ProjectA_V6_1.uproject' did not match any file(s) known to git
