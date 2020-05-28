@@ -1,0 +1,1241 @@
+﻿Log file open, 05/27/20 12:20:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjectA_V6
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.131521
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2004) (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=Nine.Tails. -epicuserid=03b45ea1482849f79f09a189d44525b8 -epiclocale=en
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Engine.ini]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Engine.ini]
+[2020.05.27-19.20.14:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Engine.ini]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Engine.ini]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.27-19.20.14:458][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Engine.ini]
+[2020.05.27-19.20.14:458][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Engine.ini]
+[2020.05.27-19.20.14:464][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-19.20.14:464][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.27-19.20.14:464][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.27-19.20.14:464][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-19.20.14:464][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.27-19.20.14:464][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-19.20.14:464][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.27-19.20.14:464][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.27-19.20.14:464][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.27-19.20.14:464][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.27-19.20.14:464][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.27-19.20.14:464][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.27-19.20.14:464][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.27-19.20.14:464][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.27-19.20.14:464][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.27-19.20.14:465][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.27-19.20.14:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.27-19.20.14:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.27-19.20.14:466][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.27-19.20.14:466][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-19.20.14:466][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.27-19.20.14:466][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.27-19.20.14:466][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-19.20.14:466][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.27-19.20.14:466][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.27-19.20.14:466][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.27-19.20.14:466][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.27-19.20.14:466][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.27-19.20.14:469][  0]LogHAL: Display: Platform has ~ 32 GB [34303705088 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.27-19.20.14:469][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.27-19.20.14:469][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-19.20.14:469][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.27-19.20.14:469][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.27-19.20.14:469][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-19.20.14:469][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.27-19.20.14:469][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-19.20.14:469][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.27-19.20.14:469][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.27-19.20.14:469][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.27-19.20.14:469][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.27-19.20.14:469][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.27-19.20.14:469][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.27-19.20.14:469][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.27-19.20.14:469][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.05.27-19.20.14:470][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.05.27-19.20.14:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.05.27-19.20.14:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.05.27-19.20.14:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.05.27-19.20.14:471][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.05.27-19.20.14:471][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-19.20.14:471][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.27-19.20.14:471][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.27-19.20.14:471][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Scalability.ini]
+[2020.05.27-19.20.14:471][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.05.27-19.20.14:471][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.05.27-19.20.14:471][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.05.27-19.20.14:471][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.27-19.20.14:471][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.27-19.20.14:471][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.27-19.20.14:471][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Config/Windows/Engine.ini]
+[2020.05.27-19.20.14:471][  0]LogInit: Computer: HARRY-DESKTOP
+[2020.05.27-19.20.14:471][  0]LogInit: User: haora
+[2020.05.27-19.20.14:471][  0]LogInit: CPU Page size=4096, Cores=8
+[2020.05.27-19.20.14:471][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.27-19.20.14:471][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.05.27-19.20.14:471][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.27-19.20.14:471][  0]LogMemory: Process Physical Memory: 106.66 MB used, 106.67 MB peak
+[2020.05.27-19.20.14:471][  0]LogMemory: Process Virtual Memory: 102.53 MB used, 102.53 MB peak
+[2020.05.27-19.20.14:471][  0]LogMemory: Physical Memory: 11618.64 MB used,  21095.92 MB free, 32714.56 MB total
+[2020.05.27-19.20.14:471][  0]LogMemory: Virtual Memory: 5146.73 MB used,  134212584.00 MB free, 134217728.00 MB total
+[2020.05.27-19.20.14:475][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.27-19.20.14:502][  0]LogInit: Using OS detected language (en-US).
+[2020.05.27-19.20.14:502][  0]LogInit: Using OS detected locale (en-CA).
+[2020.05.27-19.20.14:504][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.27-19.20.14:669][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.27-19.20.14:706][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.27-19.20.14:706][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.27-19.20.15:031][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.27-19.20.15:031][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.05.27-19.20.15:031][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.05.27-19.20.15:031][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.27-19.20.15:182][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2020.05.27-19.20.15:182][  0]LogD3D11RHI:       8010/0/16357 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.27-19.20.15:186][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.27-19.20.15:186][  0]LogD3D11RHI:       0/0/16357 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.27-19.20.15:186][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.27-19.20.15:199][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.27-19.20.15:199][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.27-19.20.15:199][  0]LogWindows: EnumDisplayDevices:
+[2020.05.27-19.20.15:199][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2020.05.27-19.20.15:200][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2020.05.27-19.20.15:200][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2020.05.27-19.20.15:201][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2020.05.27-19.20.15:201][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.27-19.20.15:201][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2020.05.27-19.20.15:201][  0]LogD3D11RHI:   Driver Version: 445.75 (internal:26.21.14.4575, unified:445.75)
+[2020.05.27-19.20.15:201][  0]LogD3D11RHI:      Driver Date: 3-17-2020
+[2020.05.27-19.20.15:201][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2020.05.27-19.20.15:269][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.05.27-19.20.15:269][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.27-19.20.15:271][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061080).
+[2020.05.27-19.20.15:296][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.27-19.20.15:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.05.27-19.20.15:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.05.27-19.20.15:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.05.27-19.20.15:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.05.27-19.20.15:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.05.27-19.20.15:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.05.27-19.20.15:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.05.27-19.20.15:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.05.27-19.20.15:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.05.27-19.20.15:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.05.27-19.20.15:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.27-19.20.15:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.05.27-19.20.15:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.05.27-19.20.15:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.27-19.20.15:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.27-19.20.15:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.27-19.20.15:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.27-19.20.15:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.05.27-19.20.15:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.05.27-19.20.15:718][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.05.27-19.20.15:718][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.05.27-19.20.15:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.27-19.20.15:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.05.27-19.20.15:744][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.05.27-19.20.15:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.05.27-19.20.15:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.05.27-19.20.15:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.05.27-19.20.15:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.05.27-19.20.15:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.05.27-19.20.15:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.05.27-19.20.15:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.05.27-19.20.15:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.27-19.20.15:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.05.27-19.20.15:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.05.27-19.20.15:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.05.27-19.20.15:848][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.27-19.20.15:853][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.27-19.20.15:882][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (C:/Users/haora/Documents/GitHub/ProjectA_V6/Intermediate/Shaders/WorkingDirectory/4476/).
+[2020.05.27-19.20.15:882][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/haora/AppData/Local/Temp/UnrealShaderWorkingDir/082F99994A27BC97D4ED749916A599F6/'.
+[2020.05.27-19.20.15:883][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.27-19.20.15:883][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.27-19.20.15:883][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.27-19.20.16:620][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.27-19.20.16:671][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/haora/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.27-19.20.16:671][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/haora/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.05.27-19.20.16:671][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/haora/Documents/GitHub/ProjectA_V6/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.27-19.20.16:671][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.27-19.20.16:671][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/haora/Documents/GitHub/ProjectA_V6/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.27-19.20.16:671][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.27-19.20.16:681][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.27-19.20.16:681][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.27-19.20.16:681][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.27-19.20.16:683][  0]LogDerivedDataCache: Using Local data cache path C:/Users/haora/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.27-19.20.16:683][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.27-19.20.16:683][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.27-19.20.16:713][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.27-19.20.16:715][  0]LogSlate: Using FreeType 2.10.0
+[2020.05.27-19.20.16:717][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.27-19.20.16:794][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2020.05.27-19.20.17:097][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.27-19.20.17:256][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.27-19.20.17:256][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.27-19.20.17:256][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.27-19.20.17:256][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.27-19.20.17:256][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.27-19.20.17:272][  0]LogNetVersion: ProjectA_V6 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 2108671016)
+[2020.05.27-19.20.18:621][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.046767 seconds
+[2020.05.27-19.20.18:630][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.05.27-19.20.18:630][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.05.27-19.20.18:630][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.27-19.20.19:085][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.27-19.20.19:089][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.27-19.20.19:151][  0]SourceControl: Source control is disabled
+[2020.05.27-19.20.19:151][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.27-19.20.19:151][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.05.27-19.20.19:153][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.27-19.20.19:153][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.05.27-19.20.19:154][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.27-19.20.19:154][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.05.27-19.20.19:156][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.27-19.20.19:156][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.05.27-19.20.19:259][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.27-19.20.19:274][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.27-19.20.19:274][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.05.27-19.20.19:368][  0]LogOcInput: OculusInput pre-init called
+[2020.05.27-19.20.19:377][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.27-19.20.19:377][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.27-19.20.19:450][  0]LogEngine: Initializing Engine...
+[2020.05.27-19.20.19:451][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.27-19.20.19:452][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.27-19.20.19:791][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.27-19.20.19:798][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.27-19.20.19:808][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.27-19.20.19:808][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.27-19.20.19:808][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.27-19.20.19:808][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.27-19.20.19:808][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.27-19.20.19:808][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.27-19.20.19:808][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.27-19.20.19:808][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.27-19.20.19:808][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.27-19.20.19:808][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.27-19.20.19:871][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.27-19.20.19:871][  0]LogAudioMixer: Display: Name: Speakers (Logitech G433 Gaming Headset)
+[2020.05.27-19.20.19:871][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.05.27-19.20.19:871][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.27-19.20.19:871][  0]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.27-19.20.19:871][  0]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.27-19.20.19:871][  0]LogAudioMixer: Display: Channel Order:
+[2020.05.27-19.20.19:871][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.27-19.20.19:871][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.05.27-19.20.19:871][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.27-19.20.19:871][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.27-19.20.19:871][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.05.27-19.20.19:871][  0]LogAudioMixer: Display: 5: BackRight
+[2020.05.27-19.20.19:871][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.05.27-19.20.19:871][  0]LogAudioMixer: Display: 7: SideRight
+[2020.05.27-19.20.19:895][  0]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G433 Gaming Headset)
+[2020.05.27-19.20.19:899][  0]LogInit: FAudioDevice initialized.
+[2020.05.27-19.20.19:899][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.27-19.20.19:966][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/haora/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.05.27-19.20.19:967][  0]LogInit: Texture streaming: Enabled
+[2020.05.27-19.20.19:982][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.27-19.20.19:982][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.27-19.20.19:987][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.27-19.20.20:032][  0]LogInit: Transaction tracking system initialized
+[2020.05.27-19.20.20:045][  0]BlueprintLog: New page: Editor Load
+[2020.05.27-19.20.20:088][  0]LocalizationService: Localization service is disabled
+[2020.05.27-19.20.20:390][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.27-19.20.20:390][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.27-19.20.20:436][  0]LogFileCache: Scanning file cache for directory 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/' took 0.03s
+[2020.05.27-19.20.21:404][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.05.27-19.20.21:405][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.05.27-19.20.21:405][  0]Cmd: MAP LOAD FILE="C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.27-19.20.21:405][  0]LightingResults: New page: Lighting Build
+[2020.05.27-19.20.21:406][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-19.20.21:406][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.20.21:406][  0]MapCheck: New page: Map Check
+[2020.05.27-19.20.21:406][  0]LightingResults: New page: Lighting Build
+[2020.05.27-19.20.21:444][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.05.27-19.20.21:463][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/run_walkBp.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:463][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/run_walkBp.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:469][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/hud.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/hud_assets/Armor_Icon': Can't find file.
+[2020.05.27-19.20.21:469][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/hud_assets/Armor_Icon Referenced by CharacterMesh0
+[2020.05.27-19.20.21:469][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/hud.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/hud_assets/Armor_Icon': Can't find file.
+[2020.05.27-19.20.21:469][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/hud_assets/Armor_Icon Referenced by CharacterMesh0
+[2020.05.27-19.20.21:470][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/hud.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/hud_assets/Health_Icon': Can't find file.
+[2020.05.27-19.20.21:470][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/hud_assets/Health_Icon Referenced by CharacterMesh0
+[2020.05.27-19.20.21:470][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/hud.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/hud_assets/Health_Icon': Can't find file.
+[2020.05.27-19.20.21:470][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/hud_assets/Health_Icon Referenced by CharacterMesh0
+[2020.05.27-19.20.21:470][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/hud.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/hud_assets/Armor_Icon': Can't find file.
+[2020.05.27-19.20.21:470][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/hud_assets/Armor_Icon.Armor_Icon Referenced by CharacterMesh0
+[2020.05.27-19.20.21:470][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/hud.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/hud_assets/Armor_Icon': Can't find file.
+[2020.05.27-19.20.21:470][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/hud_assets/Armor_Icon.Armor_Icon Referenced by CharacterMesh0
+[2020.05.27-19.20.21:471][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/hud.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/hud_assets/Health_Icon': Can't find file.
+[2020.05.27-19.20.21:471][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/hud_assets/Health_Icon.Health_Icon Referenced by CharacterMesh0
+[2020.05.27-19.20.21:471][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/hud.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/hud_assets/Health_Icon': Can't find file.
+[2020.05.27-19.20.21:471][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/hud_assets/Health_Icon.Health_Icon Referenced by CharacterMesh0
+[2020.05.27-19.20.21:472][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/hud.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/hud_assets/Armor_Icon': Can't find file.
+[2020.05.27-19.20.21:472][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/hud_assets/Armor_Icon.Armor_Icon Referenced by Image_146
+[2020.05.27-19.20.21:472][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/hud.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/hud_assets/Armor_Icon': Can't find file.
+[2020.05.27-19.20.21:472][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/hud_assets/Armor_Icon.Armor_Icon Referenced by Image_146
+[2020.05.27-19.20.21:472][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/hud.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/hud_assets/Health_Icon': Can't find file.
+[2020.05.27-19.20.21:472][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/hud_assets/Health_Icon.Health_Icon Referenced by Image_435
+[2020.05.27-19.20.21:472][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/hud.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/hud_assets/Health_Icon': Can't find file.
+[2020.05.27-19.20.21:472][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Blueprints/hud_assets/Health_Icon.Health_Icon Referenced by Image_435
+[2020.05.27-19.20.21:496][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/hud.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/hud_assets/Armor_Icon': Can't find file.
+[2020.05.27-19.20.21:496][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/hud.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/hud_assets/Armor_Icon': Can't find file.
+[2020.05.27-19.20.21:496][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/hud.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/hud_assets/Health_Icon': Can't find file.
+[2020.05.27-19.20.21:496][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/hud.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/hud_assets/Health_Icon': Can't find file.
+[2020.05.27-19.20.21:497][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/hud.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/hud_assets/Armor_Icon': Can't find file.
+[2020.05.27-19.20.21:497][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/hud.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/hud_assets/Armor_Icon': Can't find file.
+[2020.05.27-19.20.21:497][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/hud.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/hud_assets/Health_Icon': Can't find file.
+[2020.05.27-19.20.21:497][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/hud.uasset' failed to load '/Game/ThirdPersonBP/Blueprints/hud_assets/Health_Icon': Can't find file.
+[2020.05.27-19.20.21:498][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/run_walkBp.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:498][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/run_walkBp.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:498][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/run_walkBp.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:498][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/run_walkBp.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:499][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/run_walkBp.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:499][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/run_walkBp.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:502][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/run_walkBp.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:502][  0]LoadErrors: Failed to load /Game/Weapons/Blueprint/Grenade.Grenade_C Referenced by K2Node_SpawnActorFromClass_0
+[2020.05.27-19.20.21:502][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/run_walkBp.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:502][  0]LoadErrors: Failed to load /Game/Weapons/Blueprint/Grenade.Grenade_C Referenced by K2Node_SpawnActorFromClass_0
+[2020.05.27-19.20.21:502][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/run_walkBp.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:502][  0]LoadErrors: Failed to load /Game/Weapons/Blueprint/Grenade.Grenade_C Referenced by K2Node_SpawnActorFromClass_0
+[2020.05.27-19.20.21:502][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/run_walkBp.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:503][  0]LoadErrors: Failed to load /Game/Weapons/Blueprint/Grenade.Grenade_C Referenced by K2Node_SpawnActorFromClass_0
+[2020.05.27-19.20.21:503][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/run_walkBp.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:503][  0]LoadErrors: Failed to load /Game/Weapons/Blueprint/Grenade.Grenade_C Referenced by K2Node_VariableGet_3
+[2020.05.27-19.20.21:503][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/run_walkBp.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:503][  0]LoadErrors: Failed to load /Game/Weapons/Blueprint/Grenade.Grenade_C Referenced by K2Node_VariableGet_3
+[2020.05.27-19.20.21:503][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/run_walkBp.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:503][  0]LoadErrors: Failed to load /Game/Weapons/Blueprint/Grenade.Grenade_C Referenced by K2Node_VariableGet_3
+[2020.05.27-19.20.21:504][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/run_walkBp.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:504][  0]LoadErrors: Failed to load /Game/Weapons/Blueprint/Grenade.Grenade_C Referenced by K2Node_VariableGet_3
+[2020.05.27-19.20.21:523][  0]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2020.05.27-19.20.21:525][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "Grenade" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Get Grenade
+[2020.05.27-19.20.21:525][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2020.05.27-19.20.21:539][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:539][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:540][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:540][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:541][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:541][  0]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset' failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.20.21:795][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.27-19.20.21:804][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.27-19.20.21:847][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.05.27-19.20.21:848][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.27-19.20.21:848][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.262ms to complete.
+[2020.05.27-19.20.21:848][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.443
+[2020.05.27-19.20.21:975][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-19.20.21:982][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-19.20.21:989][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-19.20.21:996][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-19.20.22:004][  0]LogCollectionManager: Loaded 0 collections in 0.002930 seconds
+[2020.05.27-19.20.22:017][  0]LogFileCache: Scanning file cache for directory 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Collections/' took 0.00s
+[2020.05.27-19.20.22:017][  0]LogFileCache: Scanning file cache for directory 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Developers/haora/Collections/' took 0.00s
+[2020.05.27-19.20.22:017][  0]LogFileCache: Scanning file cache for directory 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Collections/' took 0.00s
+[2020.05.27-19.20.22:017][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 3015 classes and 717 folders.
+[2020.05.27-19.20.22:019][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.27-19.20.22:156][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.27-19.20.22:160][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.05.27-19.20.22:188][  0]LogSlate: Took 0.000428 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.27-19.20.22:190][  0]LogSlate: Took 0.000379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.27-19.20.22:194][  0]LogSlate: Took 0.000385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.27-19.20.22:270][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2020.05.27-19.20.22:382][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.27-19.20.22:382][  0]LogLoad: (Engine Initialization) Total time: 11.53 seconds
+[2020.05.27-19.20.22:382][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.27-19.20.22:443][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.27-19.20.22:547][  1]LogAssetRegistry: Asset discovery search completed in 5.7546 seconds
+[2020.05.27-19.20.22:550][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2020.05.27-19.25.25:893][244]LogSlate: Window 'Message Log' being destroyed
+[2020.05.27-19.25.25:899][244]LogSlate: Window 'Message Log' being destroyed
+[2020.05.27-19.25.29:007][589]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.27-19.25.29:016][589]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.27-19.25.29:016][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.27-19.25.29:016][589]BlueprintLog: Warning: Blueprint failed to compile:  ThirdPersonCharacter
+[2020.05.27-19.25.29:016][589]LogCustomDialog: Dialog displayed:
+[2020.05.27-19.25.31:667][589]LogSlate: Took 0.000449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.27-19.25.31:681][589]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.27-19.25.31:845][589]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.05.27-19.25.39:976][589]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2020.05.27-19.25.39:983][589]PIE: New page: PIE session: ThirdPersonExampleMap (May 27, 2020, 5:25:39 a.m.)
+[2020.05.27-19.25.39:985][589]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.05.27-19.25.39:986][589]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.05.27-19.25.39:986][589]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.27-19.25.39:997][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011237s)
+[2020.05.27-19.25.39:998][589]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.27-19.25.39:999][589]LogPlayLevel: PIE: World Init took: (0.001345s)
+[2020.05.27-19.25.39:999][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012914s)
+[2020.05.27-19.25.40:047][589]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.05.27-19.25.40:049][589]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.27-19.25.40:049][589]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.27-19.25.40:049][589]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.27-19.25.40:049][589]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.27-19.25.40:049][589]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.27-19.25.40:049][589]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.27-19.25.40:049][589]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.27-19.25.40:049][589]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.27-19.25.40:050][589]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.27-19.25.40:050][589]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.27-19.25.40:100][589]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.27-19.25.40:100][589]LogAudioMixer: Display: Name: Speakers (Logitech G433 Gaming Headset)
+[2020.05.27-19.25.40:100][589]LogAudioMixer: Display: Is Default: Yes
+[2020.05.27-19.25.40:100][589]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.27-19.25.40:100][589]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.27-19.25.40:100][589]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.27-19.25.40:100][589]LogAudioMixer: Display: Channel Order:
+[2020.05.27-19.25.40:100][589]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.27-19.25.40:100][589]LogAudioMixer: Display: 1: FrontRight
+[2020.05.27-19.25.40:100][589]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.27-19.25.40:100][589]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.27-19.25.40:100][589]LogAudioMixer: Display: 4: BackLeft
+[2020.05.27-19.25.40:100][589]LogAudioMixer: Display: 5: BackRight
+[2020.05.27-19.25.40:100][589]LogAudioMixer: Display: 6: SideLeft
+[2020.05.27-19.25.40:100][589]LogAudioMixer: Display: 7: SideRight
+[2020.05.27-19.25.40:113][589]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G433 Gaming Headset)
+[2020.05.27-19.25.40:115][589]LogInit: FAudioDevice initialized.
+[2020.05.27-19.25.40:130][589]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.27-19.25.40:146][589]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.05.27-12.25.40
+[2020.05.27-19.25.40:146][589]LogWorld: Bringing up level for play took: 0.014916
+[2020.05.27-19.25.40:146][589]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.05.27-19.25.40:149][589]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.05.27-19.25.40:150][589]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 12.029
+[2020.05.27-19.25.40:150][589]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.27-19.25.40:163][589]LogSlate: Took 0.000436 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.27-19.25.40:622][590]LogSlate: Took 0.000458 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.27-19.25.45:452][890]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-19.25.45:452][890]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.27-19.25.45:472][890]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.27-19.25.45:472][890]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.27-19.25.45:472][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-19.25.45:472][890]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.27-19.25.45:473][890]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-19.25.45:473][890]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-19.25.45:473][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.25.45:491][890]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.27-19.25.45:491][890]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.27-19.25.45:496][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.25.45:536][890]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-19.25.45:538][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-19.25.45:563][890]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.05.27-19.25.45:721][891]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.05.27-19.25.46:481][939]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.27-19.25.46:492][939]LogBlueprint: Error: [Compiler ThirdPersonCharacter] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2020.05.27-19.25.46:494][939]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "Grenade" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Get Grenade
+[2020.05.27-19.25.46:494][939]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2020.05.27-19.25.46:752][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.05.27-19.25.54:240][504]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.27-19.25.56:305][636]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.27-19.25.59:293][880]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.27-19.26.10:461][783]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.27-19.26.10:471][783]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "Grenade" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Get Grenade
+[2020.05.27-19.26.10:474][783]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2020.05.27-19.26.10:475][783]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  Grenade  could not be found in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2020.05.27-19.26.10:755][783]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.05.27-19.26.21:504][750]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.27-19.27.01:316][365]LogLinker: Failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.27.01:317][365]LogLinker: Failed to load '/Game/Weapons/Blueprint/Grenade': Can't find file.
+[2020.05.27-19.27.01:318][365]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Weapons/Blueprint/Grenade.Grenade_C"',MemberName="Grenade")'
+[2020.05.27-19.27.21:612][355]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Grenade.Grenade
+[2020.05.27-19.27.37:124][658]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.05.27-19.27.47:734][889]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Explosion.Explosion
+[2020.05.27-19.28.22:009][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Explosion" FILE="C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/Explosion.uasset" SILENT=true
+[2020.05.27-19.28.22:018][  1]LogSavePackage: Moving 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Explosion490234214BEF7F91ACB75AA43D01FB7B.tmp' to 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/Explosion.uasset'
+[2020.05.27-19.28.22:043][  1]AssetCheck: New page: Asset Save: Explosion
+[2020.05.27-19.28.22:043][  1]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Explosion.Explosion
+[2020.05.27-19.28.22:299][ 23]BlueprintLog: New page: Compile Explosion
+[2020.05.27-19.28.22:585][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.05.27-19.31.01:657][248]LogSlate: Took 0.001618 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.05.27-19.31.04:399][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Material/M_Frag_Grenade_Mat.uasset' failed to load '/Game/Weapons/Textures/T_Frag_Grenade_BaseColor': Can't find file.
+[2020.05.27-19.31.04:400][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Material/M_Frag_Grenade_Mat.uasset' failed to load '/Game/Weapons/Textures/T_Frag_Grenade_BaseColor': Can't find file.
+[2020.05.27-19.31.04:400][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Material/M_Frag_Grenade_Mat.uasset' failed to load '/Game/Weapons/Textures/T_Frag_Grenade_Normal': Can't find file.
+[2020.05.27-19.31.04:400][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Material/M_Frag_Grenade_Mat.uasset' failed to load '/Game/Weapons/Textures/T_Frag_Grenade_Normal': Can't find file.
+[2020.05.27-19.31.04:401][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Material/M_Frag_Grenade_Mat.uasset' failed to load '/Game/Weapons/Textures/T_Frag_Grenade_OcclusionRoughnessMetallic': Can't find file.
+[2020.05.27-19.31.04:401][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Material/M_Frag_Grenade_Mat.uasset' failed to load '/Game/Weapons/Textures/T_Frag_Grenade_OcclusionRoughnessMetallic': Can't find file.
+[2020.05.27-19.31.04:401][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Material/M_Frag_Grenade_Mat.uasset' failed to load '/Game/Weapons/Textures/T_Frag_Grenade_BaseColor': Can't find file.
+[2020.05.27-19.31.04:402][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Material/M_Frag_Grenade_Mat.uasset' failed to load '/Game/Weapons/Textures/T_Frag_Grenade_BaseColor': Can't find file.
+[2020.05.27-19.31.04:402][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Material/M_Frag_Grenade_Mat.uasset' failed to load '/Game/Weapons/Textures/T_Frag_Grenade_Normal': Can't find file.
+[2020.05.27-19.31.04:402][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Material/M_Frag_Grenade_Mat.uasset' failed to load '/Game/Weapons/Textures/T_Frag_Grenade_Normal': Can't find file.
+[2020.05.27-19.31.04:402][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Material/M_Frag_Grenade_Mat.uasset' failed to load '/Game/Weapons/Textures/T_Frag_Grenade_OcclusionRoughnessMetallic': Can't find file.
+[2020.05.27-19.31.04:402][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Material/M_Frag_Grenade_Mat.uasset' failed to load '/Game/Weapons/Textures/T_Frag_Grenade_OcclusionRoughnessMetallic': Can't find file.
+[2020.05.27-19.31.04:403][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade.uasset' failed to load '/Game/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade_Physics': Can't find file.
+[2020.05.27-19.31.04:404][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade.uasset' failed to load '/Game/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade_Physics': Can't find file.
+[2020.05.27-19.31.04:405][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade.uasset' failed to load '/Game/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade_Physics': Can't find file.
+[2020.05.27-19.31.04:405][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade.uasset' failed to load '/Game/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade_Physics': Can't find file.
+[2020.05.27-19.31.04:406][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Material/M_Frag_Grenade_Mat.uasset' failed to load '/Game/Weapons/Textures/T_Frag_Grenade_BaseColor': Can't find file.
+[2020.05.27-19.31.04:406][492]LoadErrors: Failed to load /Game/Weapons/Textures/T_Frag_Grenade_BaseColor.T_Frag_Grenade_BaseColor Referenced by MaterialExpressionTextureSample_0
+[2020.05.27-19.31.04:406][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Material/M_Frag_Grenade_Mat.uasset' failed to load '/Game/Weapons/Textures/T_Frag_Grenade_BaseColor': Can't find file.
+[2020.05.27-19.31.04:406][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Material/M_Frag_Grenade_Mat.uasset' failed to load '/Game/Weapons/Textures/T_Frag_Grenade_Normal': Can't find file.
+[2020.05.27-19.31.04:406][492]LoadErrors: Failed to load /Game/Weapons/Textures/T_Frag_Grenade_Normal.T_Frag_Grenade_Normal Referenced by MaterialExpressionTextureSample_1
+[2020.05.27-19.31.04:407][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Material/M_Frag_Grenade_Mat.uasset' failed to load '/Game/Weapons/Textures/T_Frag_Grenade_Normal': Can't find file.
+[2020.05.27-19.31.04:407][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Material/M_Frag_Grenade_Mat.uasset' failed to load '/Game/Weapons/Textures/T_Frag_Grenade_OcclusionRoughnessMetallic': Can't find file.
+[2020.05.27-19.31.04:407][492]LoadErrors: Failed to load /Game/Weapons/Textures/T_Frag_Grenade_OcclusionRoughnessMetallic.T_Frag_Grenade_OcclusionRoughnessMetallic Referenced by MaterialExpressionTextureSample_2
+[2020.05.27-19.31.04:407][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Material/M_Frag_Grenade_Mat.uasset' failed to load '/Game/Weapons/Textures/T_Frag_Grenade_OcclusionRoughnessMetallic': Can't find file.
+[2020.05.27-19.31.04:408][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade.uasset' failed to load '/Game/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade_Physics': Can't find file.
+[2020.05.27-19.31.04:408][492]LoadErrors: Failed to load /Game/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade_Physics.SK_Frag_Grenade_Physics Referenced by SK_Frag_Grenade
+[2020.05.27-19.31.04:408][492]LogLinker: Warning: While loading 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade.uasset' failed to load '/Game/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade_Physics': Can't find file.
+[2020.05.27-19.31.04:417][492]LogMaterial: Display: Missing cached shader map for material M_Frag_Grenade_Mat, compiling. 
+[2020.05.27-19.31.04:418][492]LogMaterial: Warning: C:\Users\haora\Documents\GitHub\ProjectA_V6\Content\Weapons\Material\M_Frag_Grenade_Mat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.05.27-19.31.04:418][492]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.05.27-19.31.17:837][842]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0004 seconds. Added 7 classes and 3 folders.
+[2020.05.27-19.31.20:038][842]LogSlate: Window 'New Physics Asset' being destroyed
+[2020.05.27-19.31.20:064][842]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.05.27-19.31.20:064][842]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-19.31.20:064][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.31.20:091][842]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-19.31.20:091][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.31.20:130][842]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade_Physics.SK_Frag_Grenade_Physics
+[2020.05.27-19.31.20:134][842]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.05.27-19.31.20:276][842]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2020.05.27-19.31.20:280][842]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2020.05.27-19.31.30:776][587]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_14:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.05.27-19.31.30:776][587]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-19.31.30:776][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.31.30:809][587]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-19.31.30:810][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.31.32:095][683]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_16:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2020.05.27-19.31.32:095][683]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-19.31.32:095][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.31.32:124][683]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-19.31.32:124][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.31.34:184][846]LogSlate: Window 'SK_Frag_Grenade_Physics' being destroyed
+[2020.05.27-19.31.34:189][846]LogSlate: Window 'SK_Frag_Grenade_Physics' being destroyed
+[2020.05.27-19.31.34:198][846]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-19.31.34:198][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.31.34:253][846]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.27-19.31.34:253][846]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-19.31.34:253][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.31.34:311][846]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.27-19.31.34:311][846]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-19.31.34:311][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.31.34:360][846]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-19.31.34:360][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.31.47:806][240]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Grenade.Grenade
+[2020.05.27-19.32.28:589][973]BlueprintLog: New page: Compile Grenade
+[2020.05.27-19.32.29:020][973]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.05.27-19.32.29:563][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Grenade" FILE="C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/Grenade.uasset" SILENT=true
+[2020.05.27-19.32.29:581][ 16]LogSavePackage: Moving 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/GrenadeA53A02AA46BF5AF36D24C1BED5B96910.tmp' to 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/Grenade.uasset'
+[2020.05.27-19.32.29:605][ 16]AssetCheck: New page: Asset Save: Grenade
+[2020.05.27-19.32.29:606][ 16]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Grenade.Grenade
+[2020.05.27-19.32.59:982][ 70]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.27-19.33.24:128][655]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapons/Blueprint/Explosion.Explosion
+[2020.05.27-19.33.27:162][909]LogSlate: Window 'Explosion' being destroyed
+[2020.05.27-19.33.27:171][909]LogSlate: Window 'Explosion' being destroyed
+[2020.05.27-19.33.27:171][909]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-19.33.27:171][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.33.27:219][909]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.27-19.33.27:219][909]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-19.33.27:220][909]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.33.28:013][989]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Explosion.Explosion
+[2020.05.27-19.33.30:670][195]LogSlate: Window 'Explosion' being destroyed
+[2020.05.27-19.33.30:678][195]LogSlate: Window 'Explosion' being destroyed
+[2020.05.27-19.33.30:678][195]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-19.33.30:678][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.33.33:978][552]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.05.27-19.33.35:342][552]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.27-19.34.09:731][552]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Weapons/Blueprint/Explosion.Explosion
+[2020.05.27-19.34.10:513][552]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.05.27-19.34.10:551][552]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.05.27-19.34.10:583][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.05.27-19.34.10:737][553]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.05.27-19.34.10:980][553]LogSavePackage: Moving 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/ThirdPersonExampleMap_Auto1A4E947C04BA92D8A996B51930FDD02C4.tmp' to 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.05.27-19.34.10:984][553]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.280
+[2020.05.27-19.34.10:984][553]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.280
+[2020.05.27-19.34.10:985][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.05.27-19.34.11:003][553]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.05.27-19.34.11:003][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.05.27-19.34.11:053][553]LogSavePackage: Moving 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/ThirdPersonCharacter_Auto1983EA804401ADEFC5D7D18834972FB89.tmp' to 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2020.05.27-19.34.11:056][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Grenade] ([1] browsable assets)...
+[2020.05.27-19.34.11:075][553]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/Grenade.Grenade]
+[2020.05.27-19.34.11:075][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Grenade]
+[2020.05.27-19.34.11:094][553]LogSavePackage: Moving 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Grenade_Auto12B6B3D7A47FFBEA90C149A8381BB777B.tmp' to 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Grenade_Auto1.uasset'
+[2020.05.27-19.34.11:097][553]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Explosion] ([1] browsable assets)...
+[2020.05.27-19.34.11:097][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Explosion]
+[2020.05.27-19.34.11:108][553]LogSavePackage: Moving 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Explosion_Auto15C36BCB94FC080C7EE8C6597B7A015B5.tmp' to 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Explosion_Auto1.uasset'
+[2020.05.27-19.34.11:111][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade] ([1] browsable assets)...
+[2020.05.27-19.34.11:129][553]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade.SK_Frag_Grenade]
+[2020.05.27-19.34.11:129][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade]
+[2020.05.27-19.34.11:156][553]LogSavePackage: Moving 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/SK_Frag_Grenade_Auto1295C58C748076965C3C89E8E6CFB3C2F.tmp' to 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Autosaves/Game/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade_Auto1.uasset'
+[2020.05.27-19.34.11:159][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade_Physics] ([1] browsable assets)...
+[2020.05.27-19.34.11:179][553]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade_Physics.SK_Frag_Grenade_Physics]
+[2020.05.27-19.34.11:179][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade_Physics]
+[2020.05.27-19.34.11:189][553]LogSavePackage: Moving 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/SK_Frag_Grenade_Physics_Auto1487BFD4648DF7CBE1079FFB6B65D3205.tmp' to 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Autosaves/Game/Weapons/Mesh/GrenadesAndMine/SK_Frag_Grenade_Physics_Auto1.uasset'
+[2020.05.27-19.34.11:192][553]LogFileHelpers: Auto-saving content packages took 0.208
+[2020.05.27-19.35.04:557][700]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Grenade.Grenade
+[2020.05.27-19.35.06:597][838]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.27-19.35.40:777][546]BlueprintLog: New page: Compile Grenade
+[2020.05.27-19.35.41:022][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2020.05.27-19.35.41:449][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Grenade" FILE="C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/Grenade.uasset" SILENT=true
+[2020.05.27-19.35.41:469][586]LogSavePackage: Moving 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Grenade2B8C41964EBE7D094AD737ABD8B908F9.tmp' to 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/Grenade.uasset'
+[2020.05.27-19.35.41:492][586]AssetCheck: New page: Asset Save: Grenade
+[2020.05.27-19.35.41:492][586]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Grenade.Grenade
+[2020.05.27-19.35.49:145][423]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.27-19.35.51:673][578]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.27-19.36.05:057][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Grenade" FILE="C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/Grenade.uasset" SILENT=true
+[2020.05.27-19.36.05:070][620]LogSavePackage: Moving 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Grenade5EEB77AB46D34D8E4339CAAA2084BABF.tmp' to 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/Grenade.uasset'
+[2020.05.27-19.36.05:088][620]AssetCheck: New page: Asset Save: Grenade
+[2020.05.27-19.36.05:088][620]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Grenade.Grenade
+[2020.05.27-19.36.19:972][742]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to 'BlueprintGeneratedClass'"/Game/Weapons/Blueprint/Grenade.Grenade_C"',MemberName="Grenade")'
+[2020.05.27-19.40.47:127][222]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.27-19.40.47:138][222]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Arc  no longer exists on node  Timeline_0 . Please refresh node or break links to remove pin.
+[2020.05.27-19.40.47:138][222]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "Grenade" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Get Grenade
+[2020.05.27-19.40.47:140][222]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2020.05.27-19.40.47:141][222]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.05.27-19.40.47:141][222]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2020.05.27-19.40.47:141][222]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  Grenade  could not be found in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2020.05.27-19.40.47:402][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.05.27-19.40.52:948][650]LogSavePackage: Moving 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/ThirdPersonCharacterDFD08D954EF4CDC28AB757A4FC2AAA98.tmp' to 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.27-19.40.52:969][650]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.27-19.40.52:970][650]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.27-19.40.54:358][758]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.27-19.40.54:368][758]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Arc  no longer exists on node  Timeline_0 . Please refresh node or break links to remove pin.
+[2020.05.27-19.40.54:369][758]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Could not find a variable named "Grenade" in 'ThirdPersonCharacter'.
+Make sure 'ThirdPersonCharacter' has been compiled for  Get Grenade
+[2020.05.27-19.40.54:371][758]LogBlueprint: Error: [Compiler ThirdPersonCharacter] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2020.05.27-19.40.54:372][758]LogBlueprint: Error: [Compiler ThirdPersonCharacter] The property associated with  Grenade  could not be found in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'
+[2020.05.27-19.40.54:638][758]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.05.27-19.41.02:219][335]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.27-19.41.02:229][335]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Arc  no longer exists on node  Timeline_0 . Please refresh node or break links to remove pin.
+[2020.05.27-19.41.02:496][335]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.05.27-19.41.39:430][148]LogSavePackage: Moving 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/ThirdPersonCharacter00D1DBF6463A45C9D2F9AAA7F519C2F0.tmp' to 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.27-19.41.39:452][148]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.27-19.41.39:452][148]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.27-19.41.39:728][175]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.27-19.41.39:739][175]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Arc  no longer exists on node  Timeline_0 . Please refresh node or break links to remove pin.
+[2020.05.27-19.41.40:003][175]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.05.27-19.41.41:514][322]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.27-19.41.41:525][322]LogBlueprint: Error: [Compiler ThirdPersonCharacter] In use pin  Arc  no longer exists on node  Timeline_0 . Please refresh node or break links to remove pin.
+[2020.05.27-19.41.41:794][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.05.27-19.41.50:715][ 39]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.05.27-19.41.50:991][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.05.27-19.41.51:755][ 88]LogSavePackage: Moving 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/ThirdPersonCharacterA4167D7E43355598E8087FABBA22C6F4.tmp' to 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.05.27-19.41.51:777][ 88]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2020.05.27-19.41.51:777][ 88]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.05.27-19.41.53:701][260]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall7)
+[2020.05.27-19.41.54:804][362]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.27-19.41.54:816][362]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.27-19.41.54:817][362]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.05.27-19.41.54:820][362]LogPlayLevel: [PlayLevel] Compiling Explosion before play...
+[2020.05.27-19.41.54:872][362]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.05.27-19.41.54:873][362]LogPlayLevel: PlayLevel: Blueprint regeneration took 56 ms (1 blueprints)
+[2020.05.27-19.41.54:873][362]PIE: New page: PIE session: ThirdPersonExampleMap (May 27, 2020, 5:41:54 a.m.)
+[2020.05.27-19.41.54:873][362]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.27-19.41.54:881][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008429s)
+[2020.05.27-19.41.54:882][362]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.27-19.41.54:883][362]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2020.05.27-19.41.54:883][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009728s)
+[2020.05.27-19.41.54:926][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.05.27-19.41.54:927][362]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.27-19.41.54:927][362]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.27-19.41.54:927][362]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.27-19.41.54:927][362]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.27-19.41.54:927][362]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.27-19.41.54:928][362]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.27-19.41.54:928][362]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.27-19.41.54:928][362]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.27-19.41.54:928][362]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.27-19.41.54:928][362]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.27-19.41.54:992][362]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.27-19.41.54:992][362]LogAudioMixer: Display: Name: Speakers (Logitech G433 Gaming Headset)
+[2020.05.27-19.41.54:992][362]LogAudioMixer: Display: Is Default: Yes
+[2020.05.27-19.41.54:992][362]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.27-19.41.54:992][362]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.27-19.41.54:992][362]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.27-19.41.54:992][362]LogAudioMixer: Display: Channel Order:
+[2020.05.27-19.41.54:992][362]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.27-19.41.54:992][362]LogAudioMixer: Display: 1: FrontRight
+[2020.05.27-19.41.54:992][362]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.27-19.41.54:993][362]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.27-19.41.54:993][362]LogAudioMixer: Display: 4: BackLeft
+[2020.05.27-19.41.54:993][362]LogAudioMixer: Display: 5: BackRight
+[2020.05.27-19.41.54:993][362]LogAudioMixer: Display: 6: SideLeft
+[2020.05.27-19.41.54:993][362]LogAudioMixer: Display: 7: SideRight
+[2020.05.27-19.41.55:009][362]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G433 Gaming Headset)
+[2020.05.27-19.41.55:011][362]LogInit: FAudioDevice initialized.
+[2020.05.27-19.41.55:021][362]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.27-19.41.55:036][362]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.05.27-12.41.55
+[2020.05.27-19.41.55:036][362]LogWorld: Bringing up level for play took: 0.014810
+[2020.05.27-19.41.55:036][362]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.05.27-19.41.55:039][362]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.918
+[2020.05.27-19.41.55:039][362]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.27-19.42.45:362][327]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-19.42.45:382][327]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.27-19.42.45:401][327]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.27-19.42.45:401][327]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.27-19.42.45:401][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-19.42.45:401][327]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.27-19.42.45:402][327]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-19.42.45:402][327]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-19.42.45:402][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.42.45:420][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.27-19.42.45:421][327]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.27-19.42.45:426][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.42.45:461][327]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-19.42.45:464][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-19.42.45:468][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.05.27-19.42.45:498][328]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.05.27-19.44.03:380][364]LogTexture: Display: Building textures: T_Stripes__Pattern (AutoDXT, 1024X1024)
+[2020.05.27-19.44.03:380][364]LogTexture: Display: Building textures: T_G67_ALB (DXT1, 1024X1024)
+[2020.05.27-19.44.03:380][364]LogTexture: Display: Building textures: T_G67_M_MSK (DXT1, 1024X1024)
+[2020.05.27-19.44.03:380][364]LogTexture: Display: Building textures: T_G67_NRM (BC5, 1024X1024)
+[2020.05.27-19.44.03:380][364]LogTexture: Display: Building textures: T_KA74U_ALB (AutoDXT, 2048X2048)
+[2020.05.27-19.44.03:380][364]LogTexture: Display: Building textures: T_KA74U_NRM (BC5, 2048X2048)
+[2020.05.27-19.44.03:380][364]LogTexture: Display: Building textures: T_KA74U_M_MSK (AutoDXT, 2048X2048)
+[2020.05.27-19.44.03:380][364]LogMaterial: Display: Missing cached shader map for material M_Weapon_Master_USE, compiling. 
+[2020.05.27-19.44.03:552][364]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 80
+[2020.05.27-19.44.03:552][364]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 73
+[2020.05.27-19.44.03:552][364]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 66
+[2020.05.27-19.44.03:552][364]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 59
+[2020.05.27-19.44.03:552][364]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 52
+[2020.05.27-19.44.03:552][364]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 45
+[2020.05.27-19.44.03:552][364]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 38
+[2020.05.27-19.44.03:552][364]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 31
+[2020.05.27-19.44.03:552][364]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 24
+[2020.05.27-19.44.03:552][364]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 17
+[2020.05.27-19.44.03:552][364]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2020.05.27-19.44.03:552][364]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2020.05.27-19.44.03:552][364]LogStaticMesh: Building static mesh SM_G67_Thrown...
+[2020.05.27-19.44.03:622][364]LogStaticMesh: Built static mesh [0.07s] /Game/FPS_Weapon_Bundle/Weapons/Meshes/G67_Grenade/SM_G67_Thrown.SM_G67_Thrown
+[2020.05.27-19.44.25:904][ 23]BlueprintLog: New page: Compile Grenade
+[2020.05.27-19.44.26:264][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.05.27-19.44.27:340][113]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.27-19.44.27:354][113]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.27-19.44.27:354][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.27-19.44.27:354][113]PIE: New page: PIE session: ThirdPersonExampleMap (May 27, 2020, 5:44:27 a.m.)
+[2020.05.27-19.44.27:354][113]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.27-19.44.27:365][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011006s)
+[2020.05.27-19.44.27:366][113]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.27-19.44.27:367][113]LogPlayLevel: PIE: World Init took: (0.001440s)
+[2020.05.27-19.44.27:367][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012658s)
+[2020.05.27-19.44.27:419][113]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.05.27-19.44.27:420][113]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.27-19.44.27:420][113]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.27-19.44.27:420][113]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.27-19.44.27:420][113]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.27-19.44.27:420][113]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.27-19.44.27:420][113]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.27-19.44.27:420][113]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.27-19.44.27:420][113]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.27-19.44.27:421][113]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.27-19.44.27:421][113]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.27-19.44.27:502][113]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.27-19.44.27:502][113]LogAudioMixer: Display: Name: Speakers (Logitech G433 Gaming Headset)
+[2020.05.27-19.44.27:502][113]LogAudioMixer: Display: Is Default: Yes
+[2020.05.27-19.44.27:502][113]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.27-19.44.27:502][113]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.27-19.44.27:502][113]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.27-19.44.27:502][113]LogAudioMixer: Display: Channel Order:
+[2020.05.27-19.44.27:502][113]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.27-19.44.27:502][113]LogAudioMixer: Display: 1: FrontRight
+[2020.05.27-19.44.27:502][113]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.27-19.44.27:502][113]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.27-19.44.27:502][113]LogAudioMixer: Display: 4: BackLeft
+[2020.05.27-19.44.27:502][113]LogAudioMixer: Display: 5: BackRight
+[2020.05.27-19.44.27:502][113]LogAudioMixer: Display: 6: SideLeft
+[2020.05.27-19.44.27:502][113]LogAudioMixer: Display: 7: SideRight
+[2020.05.27-19.44.27:518][113]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G433 Gaming Headset)
+[2020.05.27-19.44.27:520][113]LogInit: FAudioDevice initialized.
+[2020.05.27-19.44.27:532][113]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.27-19.44.27:548][113]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.05.27-12.44.27
+[2020.05.27-19.44.27:548][113]LogWorld: Bringing up level for play took: 0.015228
+[2020.05.27-19.44.27:548][113]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.05.27-19.44.27:551][113]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.57
+[2020.05.27-19.44.27:551][113]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.27-19.44.29:671][338]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:05C9
+[2020.05.27-19.44.29:671][338]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Set Physics Linear Velocity
+[2020.05.27-19.44.29:671][338]LogScript: Warning: Accessed None
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:05C9
+[2020.05.27-19.44.29:671][338]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Set Physics Linear Velocity
+[2020.05.27-19.44.34:532][918]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:05C9
+[2020.05.27-19.44.34:532][918]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Set Physics Linear Velocity
+[2020.05.27-19.44.34:532][918]LogScript: Warning: Accessed None
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:05C9
+[2020.05.27-19.44.34:532][918]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Set Physics Linear Velocity
+[2020.05.27-19.44.41:135][709]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-19.44.41:151][709]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.27-19.44.41:171][709]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.27-19.44.41:171][709]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.27-19.44.41:172][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-19.44.41:172][709]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.27-19.44.41:172][709]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-19.44.41:172][709]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-19.44.41:172][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.44.41:182][709]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.27-19.44.41:182][709]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.27-19.44.41:188][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.44.41:229][709]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-19.44.41:232][709]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-19.44.41:236][709]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.05.27-19.44.41:316][710]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.05.27-19.44.55:923][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Grenade" FILE="C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/Grenade.uasset" SILENT=true
+[2020.05.27-19.44.55:944][ 22]LogSavePackage: Moving 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/GrenadeA6CFFC79410D0B8AFFC629A819376D34.tmp' to 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/Grenade.uasset'
+[2020.05.27-19.44.55:962][ 22]AssetCheck: New page: Asset Save: Grenade
+[2020.05.27-19.44.55:963][ 22]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Grenade.Grenade
+[2020.05.27-19.45.05:938][890]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_22:PersistentLevel.Grenade_C_0.StaticMesh) Not currently registered. Aborting.
+[2020.05.27-19.45.05:938][890]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_4:PersistentLevel.Grenade_C_3.StaticMesh) Not currently registered. Aborting.
+[2020.05.27-19.45.06:938][976]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_4:PersistentLevel.Grenade_C_3.StaticMesh) Not currently registered. Aborting.
+[2020.05.27-19.45.06:938][976]LogActorComponent: ReregisterComponent: (/Engine/Transient.World_22:PersistentLevel.Grenade_C_0.StaticMesh) Not currently registered. Aborting.
+[2020.05.27-19.45.13:029][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Grenade" FILE="C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/Grenade.uasset" SILENT=true
+[2020.05.27-19.45.13:050][487]LogSavePackage: Moving 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Saved/Grenade4707386E4E8ECB42A00C6B8DEF31CCE7.tmp' to 'C:/Users/haora/Documents/GitHub/ProjectA_V6/Content/ThirdPersonBP/Blueprints/Grenade.uasset'
+[2020.05.27-19.45.13:073][487]AssetCheck: New page: Asset Save: Grenade
+[2020.05.27-19.45.13:074][487]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/Grenade.Grenade
+[2020.05.27-19.45.14:933][623]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.27-19.45.14:946][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.27-19.45.14:946][623]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.05.27-19.45.14:956][623]LogPlayLevel: [PlayLevel] Compiling Grenade before play...
+[2020.05.27-19.45.15:290][623]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.05.27-19.45.15:294][623]LogPlayLevel: PlayLevel: Blueprint regeneration took 348 ms (1 blueprints)
+[2020.05.27-19.45.15:294][623]PIE: New page: PIE session: ThirdPersonExampleMap (May 27, 2020, 5:45:15 a.m.)
+[2020.05.27-19.45.15:294][623]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.27-19.45.15:303][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008597s)
+[2020.05.27-19.45.15:304][623]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.05.27-19.45.15:304][623]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2020.05.27-19.45.15:304][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010014s)
+[2020.05.27-19.45.15:346][623]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.05.27-19.45.15:347][623]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.27-19.45.15:347][623]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.27-19.45.15:347][623]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.27-19.45.15:347][623]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.27-19.45.15:347][623]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.27-19.45.15:347][623]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.27-19.45.15:347][623]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.27-19.45.15:347][623]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.27-19.45.15:347][623]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.27-19.45.15:347][623]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.27-19.45.15:396][623]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.27-19.45.15:396][623]LogAudioMixer: Display: Name: Speakers (Logitech G433 Gaming Headset)
+[2020.05.27-19.45.15:396][623]LogAudioMixer: Display: Is Default: Yes
+[2020.05.27-19.45.15:396][623]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.27-19.45.15:396][623]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.27-19.45.15:396][623]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.27-19.45.15:396][623]LogAudioMixer: Display: Channel Order:
+[2020.05.27-19.45.15:396][623]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.27-19.45.15:396][623]LogAudioMixer: Display: 1: FrontRight
+[2020.05.27-19.45.15:396][623]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.27-19.45.15:396][623]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.27-19.45.15:396][623]LogAudioMixer: Display: 4: BackLeft
+[2020.05.27-19.45.15:396][623]LogAudioMixer: Display: 5: BackRight
+[2020.05.27-19.45.15:396][623]LogAudioMixer: Display: 6: SideLeft
+[2020.05.27-19.45.15:396][623]LogAudioMixer: Display: 7: SideRight
+[2020.05.27-19.45.15:410][623]LogAudioMixer: Display: Using Audio Device Speakers (Logitech G433 Gaming Headset)
+[2020.05.27-19.45.15:412][623]LogInit: FAudioDevice initialized.
+[2020.05.27-19.45.15:428][623]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.05.27-19.45.15:445][623]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.05.27-12.45.15
+[2020.05.27-19.45.15:445][623]LogWorld: Bringing up level for play took: 0.015125
+[2020.05.27-19.45.15:445][623]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.05.27-19.45.15:448][623]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.326
+[2020.05.27-19.45.15:448][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.27-19.45.19:370][ 14]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:05C9
+[2020.05.27-19.45.19:370][ 14]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Set Physics Linear Velocity
+[2020.05.27-19.45.19:370][ 14]LogScript: Warning: Accessed None
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:05C9
+[2020.05.27-19.45.19:370][ 14]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Set Physics Linear Velocity
+[2020.05.27-19.45.27:409][973]LogScript: Warning: Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:05C9
+[2020.05.27-19.45.27:409][973]PIE: Error: Blueprint Runtime Error: "Attempted to access missing property 'None'. If this is a packaged/cooked build, are you attempting to use an editor-only property?". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Set Physics Linear Velocity
+[2020.05.27-19.45.27:409][973]LogScript: Warning: Accessed None
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:05C9
+[2020.05.27-19.45.27:409][973]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Set Physics Linear Velocity
+[2020.05.27-19.45.32:031][527]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-19.45.32:051][527]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.27-19.45.32:081][527]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.27-19.45.32:081][527]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.27-19.45.32:081][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-19.45.32:082][527]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.05.27-19.45.32:082][527]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-19.45.32:082][527]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.27-19.45.32:082][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.45.32:100][527]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.27-19.45.32:100][527]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.05.27-19.45.32:106][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.27-19.45.32:147][527]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.27-19.45.32:150][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.27-19.45.32:154][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.05.27-19.45.32:214][528]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.05.27-19.45.44:751][477]LogUObjectArray: Warning: Empty slot
+[2020.05.27-19.45.44:782][477]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.05.27-19.45.45:410][477]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.628 s
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: === Handled ensure: ===
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: 
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1165]
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: Stack: 
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ffe49a07b69 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ffe4921678a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ffe4922409f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ffe456bc5b1 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ffe4437977a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ffe44331647 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ffe4a22b144 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ffe4a41dc63 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ffe4a2760b3 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ffe4a2546f9 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ffe4a248ce2 UE4Editor-Slate.dll!UnknownFunction []
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ffea6aa4ae7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ffea6a9242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ffea6aa7195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ffea6a8ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ffee474e338 USER32.dll!UnknownFunction []
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ffee474dd79 USER32.dll!UnknownFunction []
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ffea6aa8699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ff777626db0 UE4Editor.exe!UnknownFunction []
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ff77763c3ec UE4Editor.exe!UnknownFunction []
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ff77763c4ca UE4Editor.exe!UnknownFunction []
+[2020.05.27-19.45.45:410][477]LogOutputDevice: Error: [Callstack] 0x00007ff77764ceae UE4Editor.exe!UnknownFunction []
+[2020.05.27-19.45.45:411][477]LogOutputDevice: Error: [Callstack] 0x00007ff77764fcbe UE4Editor.exe!UnknownFunction []
+[2020.05.27-19.45.45:411][477]LogOutputDevice: Error: [Callstack] 0x00007ffee5b86fd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.27-19.45.45:411][477]LogOutputDevice: Error: [Callstack] 0x00007ffee64fcec1 ntdll.dll!UnknownFunction []
+[2020.05.27-19.45.45:411][477]LogOutputDevice: Error: 
+[2020.05.27-19.45.45:420][477]LogStats:                SubmitErrorReport -  0.000 s
